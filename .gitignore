@@ -1,0 +1,11 @@
+# Предсказания
+runs/detect/predict*/
+runs/detect/train/
+
+# Лишние веса
+runs/detect/traffic_lights4/weights/last.pt
+
+# Архивы и мусор
+*.zip
+__pycache__/
+*.pyc
